@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "yup": "^1.4.0",
+    "yup-locale-pt": "^0.0.9",
+    "yup-locales": "^1.2.21"
+  }
+}
+
